@@ -1,11 +1,16 @@
-# Marcell Varga
+# Hi, I'm Marcell 👋
 
-I build products at the intersection of design and engineering. 
+I'm a UX & Frontend Engineer bridging the gap between aesthetic design and high-performance code. I care deeply about the "last mile" of product development—taking concepts from Figma and turning them into scalable systems that feel great to use.
 
-Focused on taking concepts from Figma to high-performance systems without losing the design’s intent. I use an AI-accelerated workflow to handle the heavy lifting so I can focus on architecture, complex state, and building interfaces that feel premium.
+**Currently:**
+- 🚢 Shipping enterprise-scale interfaces at AXON Networks.
+- 🤖 Building AI-integrated apps (check out my recent `ai-finance` and `ai-travel-planner` experiments below).
+- 🌍 Based in Singapore, deeply influenced by the minimalist design culture of Copenhagen.
 
-### The Stack
-`React` • `TypeScript` • `Next.js` • `Node.js` • `Tailwind` • `Figma`
+**My Stack:**
+- **Engineering:** React, TypeScript, Next.js, Node.js, Tailwind CSS
+- **Design:** Figma, Design Systems, Rapid Prototyping
 
----
-[Website](https://marcellvarga.com/) • [LinkedIn](https://linkedin.com/in/themarcellvarga)
+**Let's Connect:**
+- 🌐 [marcellvarga.com](https://marcellvarga.com)
+- 💼 [LinkedIn](https://linkedin.com/in/themarcellvarga)

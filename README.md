@@ -1,7 +1,6 @@
 # Hi, I'm Marcell 👋
 
 📍 Singapore
-💻 UX/Product Engineer
 
 I focus on the "last mile" of product development—taking concepts from Figma and turning them into scalable, high-performance systems without losing the design’s intent.
 

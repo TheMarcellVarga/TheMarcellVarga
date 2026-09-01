@@ -1,4 +1,4 @@
-# Hi, I'm Marcell 👋
+# Hi, I'm Marcell
 
 I’m a product-focused frontend engineer working across React, TypeScript, interaction architecture, and product delivery.
 

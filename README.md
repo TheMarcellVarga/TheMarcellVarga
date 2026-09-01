@@ -1,8 +1,8 @@
 # Hi, I'm Marcell 👋
 
-I’m a product-focused frontend engineer based in Singapore, working across React, TypeScript, interaction architecture and product delivery.
+I’m a product-focused frontend engineer working across React, TypeScript, interaction architecture, and product delivery.
 
-My background in UX and design systems shapes how I build complex interfaces, but my focus is production engineering: component architecture, APIs, state, accessibility, testing and reliable AI-enabled workflows.
+My background in UX and design systems shapes how I build complex interfaces. I care about the whole path from interaction and component architecture to APIs, state, accessibility, testing, and reliable AI-enabled workflows.
 
 Currently shipping with AXON Networks.
 

@@ -1,10 +1,11 @@
 # Hi, I'm Marcell
 
-I’m a product-focused frontend engineer working across React, TypeScript, interaction architecture, and product delivery.
+I build interfaces with React and TypeScript, and turn random ideas into code for fun.
 
-My background in UX and design systems shapes how I build complex interfaces. I care about the whole path from interaction and component architecture to APIs, state, accessibility, testing, and reliable AI-enabled workflows.
+I come from UX and design systems, so I care about how things feel as much as how they work. That takes me from interactions and components to APIs, state, accessibility, and tests—with a few AI-assisted workflows along the way.
 
-Currently shipping with AXON Networks.
+Currently building things at AXON Networks. Occasionally finishing a sid
+e project.
 
 ## Connect
 * [marcellvarga.com](https://marcellvarga.com/)
